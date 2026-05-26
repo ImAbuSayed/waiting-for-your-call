@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/waiting-for-your-call/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Waiting For Your Call](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/waiting-for-your-call/) |
+| **Get License** | [Official Music Licensing for Waiting For Your Call](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/waiting-for-your-call/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight falls and the whiskey's poured
+> But it's your taste that I'm looking for
+> Shadows dance on the cabin wall
+> I'm just waiting for your call
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
